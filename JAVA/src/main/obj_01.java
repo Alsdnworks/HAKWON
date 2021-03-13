@@ -13,5 +13,5 @@ import java.util.Scanner;
 		 self.age = input.nextInt();	 
 		 System.out.printf("%s %d",self.name,self.age);
 	 }
- }
+ }  
 	
